@@ -1,0 +1,33 @@
+{
+  "name": "styavadevs",
+  "version": "1.0.0",
+  "description": "A minimalistic CRUD API server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/precious-adeyinka/styavadevs.git"
+  },
+  "keywords": [
+    "api",
+    "crud",
+    "REST"
+  ],
+  "author": "Precious Adeyinka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/precious-adeyinka/styavadevs/issues"
+  },
+  "homepage": "https://github.com/precious-adeyinka/styavadevs#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.2",
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}

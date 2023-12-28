@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Users\\Precious Adeyinka\\Documents\\Clients\\Websites\\talks\\styavadevs\\logs\\info\\.256816148b0e17daa7904b00f5475219e7c3121e-audit.json",
+    "files": [
+        {
+            "date": 1703771739809,
+            "name": "F:\\Users\\Precious Adeyinka\\Documents\\Clients\\Websites\\talks\\styavadevs\\logs\\info\\info-2023-12-28.log",
+            "hash": "baa2b9b0b1401630f60cc017c02d7ff2de564b4b2b40a413c29451055681863b"
+        }
+    ],
+    "hashType": "sha256"
+}
