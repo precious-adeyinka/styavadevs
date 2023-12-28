@@ -2,13 +2,13 @@
 Styava Dev CRUD API server
 
 ## AUTHOR
-(Precious Adeyinka)[https://officialpreciousadeyinka.vercel.app/]
+[Precious Adeyinka](https://officialpreciousadeyinka.vercel.app/)
 
 ## DESCRIPTION
 Minimalist API Server for Styava Dev Community Talk Session
 
 ## API
-/api/users
+- Users Api - `/api/users`
 
 ## CONFIGURATION
 - Requires `nodejs v16.13.0`
@@ -23,7 +23,7 @@ Start the server `npm start`
 
 ## DEPLOYMENT
 - `docker build -t styavadevs Dockerfile .`
-- `docker run -p 5000:5000 --name styavadevs styavadevs`
+- `docker run -p 5000:5000 styavadevs`
 
 ## TESTING
 N/A
